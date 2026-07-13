@@ -28,16 +28,14 @@ In this course, you will build a small **AI Researcher frontend** — a Streamli
 
 ## ✅ Steps to Complete
 
-1. **Sign in** to CodeSignal: [codesignal.com](https://codesignal.com/)
+1. **Register & Sign in** to CodeSignal: [codesignal.com](https://codesignal.com/)
 
-2. **Find and enroll** in the Streamlit course on CodeSignal.
+2. **Complete:** [Making a Frontend for our Researcher with Streamlit](https://codesignal.com/learn/courses/making-a-frontend-for-our-researcher-with-streamlit)
 
-3. **Complete** all modules.
+3. **Build** your mini Streamlit app (see Bonus below).
 
-4. **Build** your mini Streamlit app (see Bonus below).
-
-5. **Submit** via GitHub Issue:  
-   👉 [LearnCV.ai Issues](https://github.com/purus15987/LearnCV.ai/issues)
+4. **Submit** via GitHub Issue while **Project 01 Submission**:
+   👉 [Vision-Systems.AI Issues](https://github.com/purus15987/vision-systems.ai/issues)
 
 ---
 

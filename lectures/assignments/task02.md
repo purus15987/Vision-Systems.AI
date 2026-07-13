@@ -40,7 +40,7 @@ In computer vision, you will use these skills to:
 
 4. **Download** your completion certificate.
 
-5. **Submit** via GitHub Issue while Project01 submission:  
+5. **Submit** via GitHub Issue while **Project 01 Submission**:  
    👉 [Vision-Systems.AI Issues](https://github.com/purus15987/vision-systems.ai/issues)
 
 ---

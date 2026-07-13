@@ -1,6 +1,7 @@
 # Vision-Systems.AI 2026
 
 Welcome to the official course homepage for [Vision-Systems.AI](https://purus15987.github.io/vision-systems.ai/), a comprehensive Computer Vision and AI course designed to bridge the gap between theory, research, and real-world applications.
+
 The course is taught by [M. Purushotham](https://github.com/purus15987), AI/ML Researcher specializing in Generative AI and Computer Vision.
 
 ![vision-systems](assets/vision-systems.png)
@@ -99,6 +100,7 @@ Throughout the course, students will work with modern AI and Computer Vision too
 > ***"Build, apply, and showcase your learning –*** [***step by step.***](https://github.com/purus15987/LearnCV.ai/issues)
 
 > [Assignment Submission Tracker CSE(AIML)-A](https://docs.google.com/spreadsheets/d/1NIQGEZTB1Byhpuvn-6rzlz9xBtkTZfxUp-M4l1CczFk/edit?usp=sharing)
+
 > [Assignment Submission Tracker CSE(AIML)-B](https://docs.google.com/spreadsheets/d/1GZGnX9NolDM95KEZAL8gcMF_g3Li0it7DVWgYNtD8E4/edit?usp=sharing)
 
 | 📅 **Date**  | 📝 **Task No.** | 📌 **Assignment Title**                                          | 📚 **Topics Covered**                                                                  | 🔗 **Link**                                                           |
@@ -128,6 +130,7 @@ Throughout the course, students will work with modern AI and Computer Vision too
 | 📅 **Date**  | 📦 **Project No.** | 🧠 **Project Title**                     | 📚 **Topics Covered**                    | 🔗 **Link**     |
 | ------------ | -------------- | ------------------------------------ | ---------------------------------------- | --------------- |
 | July 04, 2026 | Project 1 | Image Processing Toolkit  | Fundamentals of Digital Image Processing   | [Project 1 Instructions](projects/projects01/index.md)  |
+| July 12, 2025 | Project 2 | Feature Vision Systems | Classical Computer Vision & Feature Engineering Techniques | [Project 2 Instructions](projects/projects02/index.md)
 | ...          | ...            | ...                                  | ...                                      | ...            |
 
 
