@@ -1,3 +1,5 @@
+![JBIET](https://www.jbiet.edu.in/assets/images/JB-new_logo-2.jpg)
+
 # Vision-Systems.AI 2026
 
 Welcome to the official course homepage for [Vision-Systems.AI](https://purus15987.github.io/vision-systems.ai/), a comprehensive Computer Vision and AI course designed to bridge the gap between theory, research, and real-world applications.
